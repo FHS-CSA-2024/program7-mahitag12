@@ -40,3 +40,10 @@ public class SchruteBuckConverter {
         return totalStanleyNickels / (double) STANLEY_NICKELS_PER_SCHRUTE_BUCK;
     }
 }
+
+//Paste console output below:
+/*
+Decimal schrute-bucks = $1.29
+
+*/
+
